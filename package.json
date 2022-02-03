@@ -1,9 +1,8 @@
 {
-  "name": "c-counter",
+  "name": "crypto-counter",
   "private": true,
   "description": "Crypto currency tickers",
-  "version": "0.2.139",
-  "author": "Scott Spence <yo@scottspence.dev>",
+  "version": "0.1",
   "keywords": [
     "gatsby",
     "crypto"
@@ -11,7 +10,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "dev": "gatsby develop -p 6789",
+    "dev": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "format": "pretty-quick"
@@ -55,10 +54,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spences10/c-counter.git"
+    "url": "git+https://github.com/uvacoder/crypto-data-ticker.git"
   },
   "bugs": {
-    "url": "https://github.com/spences10/c-counter/issues"
+    "url": "https://github.com/uvacoder/crypto-data-ticker/issues"
   },
   "main": "index.js",
   "homepage": "https://github.com/spences10/c-counter#readme"
