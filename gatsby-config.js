@@ -1,10 +1,10 @@
 const siteMetadata = {
-  title: `C-Counter`,
+  title: `Crypto Market Data`,
   description: `Crypto currency tickers`,
-  author: `@spences10`,
+  author: `@uvacoder`,
   image: `/gatsby-icon.png`,
   favicon: `./static/gatsby-icon.png`,
-  siteUrl: `https://c-counter.scottspence.me/`,
+  siteUrl: `https://crypto-data-tracker.vercel.app/`,
   siteLanguage: `en-GB`,
   siteLocale: `en_gb`,
 }
