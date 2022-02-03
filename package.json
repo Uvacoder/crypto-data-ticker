@@ -60,5 +60,5 @@
     "url": "https://github.com/uvacoder/crypto-data-ticker/issues"
   },
   "main": "index.js",
-  "homepage": "https://github.com/spences10/c-counter#readme"
+  "homepage": "https://crypto-data-ticker.vercel.app"
 }
